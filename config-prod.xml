@@ -1,2 +1,0 @@
-config:
- info: "environment:prod,this is a config xml,version=1"
