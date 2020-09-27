@@ -1,2 +1,2 @@
 config:
- info: "environment:dev,this is a config xml,version=3"
+ info: "environment:dev,this is a config xml,version=4"
